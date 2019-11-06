@@ -19,7 +19,7 @@ I am looking for MS program in the fields of computer science in United States. 
 
 ### Contact
 <br>• Email: zengjia [at] mail.nwpu.edu.cn
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zengjia24 [at] outlook.com
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zengjia24 [at] outlook.com
 <br>• Address: 127 Youyi West Rd. Xi’an, China, 710072
 
 
