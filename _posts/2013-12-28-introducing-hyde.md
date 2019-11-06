@@ -2,7 +2,7 @@
 layout: post
 title: Jia Zeng(曾佳)
 ---
- 
+<br> 
 I am a bachelor student at School of Software, Northwestern Polytechnical University. Currently, I am working as a research assistant in State Key Laboratory for Speech and Image Information Processing, School of Computer Science, Northwestern Polytechnical University, Xi'an. Prior to this, I graduated from Hubei Yiling high school in 2016.
 
 My primiary research interests contain computer vision, object detection, image identification, deep learning and computer graphics. I have some practical experience in these mentioned area during my internship in the State Key Lab for Speech and Image Information Processing. In addition, I am also willing to explore new topics including but noy limited to all subfileds of computer vision and machine learning.
@@ -18,7 +18,7 @@ I am looking for MS program in the fields of computer science in United States. 
 
 
 ### Contact
-<br>• Email: zengjia [at] mail.nwpu.edu.cn
+• Email: zengjia [at] mail.nwpu.edu.cn
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zengjia24 [at] outlook.com
 <br>• Address: 127 Youyi West Rd. Xi’an, China, 710072
 
