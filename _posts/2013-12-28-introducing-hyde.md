@@ -10,16 +10,16 @@ My primiary research interests contain computer vision, object detection, image 
 I am looking for MS program in the fields of computer science in United States. If you think I match your group, please contact me via [email](zengjia@mail.nwpu.edu.cn) at any moment.
 
 ### Education
-**Northwestern Polytechnical University**（&nbsp;）（&nbsp;）（&nbsp;）（&nbsp;）（&nbsp;）（&nbsp;）Xi’an, China
-<br>*Bachelor of Engineering in Software Engineering* （&nbsp;）（&nbsp;）（&nbsp;）          Sept 2016 - Jun 2020 (expected)
+**Northwestern Polytechnical University**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xi’an, China
+<br>*Bachelor of Engineering in Software Engineering* &nbsp;&nbsp;&nbsp;Sept 2016 - Jun 2020 (expected)
 <br>Honors/Awards:
 <br>• Second Class Scholarships for Outstanding Students (2017, 2018, 2019)
-<br>• Second Prize in China Undergraduate Mathematical Contest in Modeling(Shaanxi)（&nbsp;）（&nbsp;）（&nbsp;）  2017
+<br>• Second Prize in China Undergraduate Mathematical Contest in Modeling(Shaanxi)&nbsp;&nbsp;&nbsp;2017
 
 
 ### Contact
 <br>• Email: zengjia [at] mail.nwpu.edu.cn
-<br>（&nbsp;）（&nbsp;）zengjia24 [at] outlook.com
+<br>&nbsp;&nbsp;zengjia24 [at] outlook.com
 <br>• Address: 127 Youyi West Rd. Xi’an, China, 710072
 
 
