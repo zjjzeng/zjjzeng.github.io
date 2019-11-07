@@ -18,12 +18,6 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
       
-      ---
-      layout: page
-      title: About
-      title: Resume
-      ---
-
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
