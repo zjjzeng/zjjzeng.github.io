@@ -7,4 +7,4 @@ title: Resume
   Last updated at Dec. 2019
 </p>
 
-Please see my resume at [here](../IMG_1832.JPG).
+Please see my resume at [here](../IMG_0150.JPG).
