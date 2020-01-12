@@ -4,8 +4,7 @@ title: About me
 ---
 
 <div align = "center">
-<img src = '../IMG_0150.JPG'>
-</div>
+<img src = '../IMG_0150.JPG' width = "288" height = "216">
 
 ## Interests and Hobbies
 • Basketball, Movie, Driving, Travel
@@ -26,6 +25,8 @@ title: About me
 
 ## Hometown
 
-<img src = '../ '/>
+<img src = '../IMG_0150.JPG' width = "576" height = "432">
 
 Yichang is my hometown, I lived in this lovely city for 18 years before I went to Xi'an for university study. I love the customs, scenerys and food in Yichang. Of course, I also won't forget my friends here. To summary in one word, "beautiful hills, beautiful water, and more beautiful people", Yichang deserves it. 
+
+</div>
