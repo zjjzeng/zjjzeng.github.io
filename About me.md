@@ -3,7 +3,9 @@ layout: page
 title: About me
 ---
 
-<img src = '../IMG_0150.JPG' div align = center/>
+<div align = "center">
+<img src = '../IMG_0150.JPG'>
+</div>
 
 ## Interests and Hobbies
 • Basketball, Movie, Driving, Travel
@@ -19,8 +21,8 @@ title: About me
 
 ## Professional Skills
 • Programming: C/C++, Python, Java, MATLAB, SQL
-• Applications：Ubuntu, LaTex, MySQL, Git, Visual Studio, Eclipse
-• Languages: Mandarin (native), English (proficient)
+<br>• Applications：Ubuntu, LaTex, MySQL, Git, Visual Studio, Eclipse
+<br>• Languages: Mandarin (native), English (proficient)
 
 ## Hometown
 
