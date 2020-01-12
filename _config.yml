@@ -10,7 +10,7 @@ plugins: [jekyll-paginate, kramdown]
 title:            Jia Zeng 
 tagline:          
 description:      'A senior student in Northwestern Polytechnical University.'
-url:              http://zjjzeng.github.io
+url:              http://zjjzeng.github.io/
 baseurl:          /
 
 author:
