@@ -5,7 +5,7 @@ title: About me
 
 ## Interests and Hobbies
 • Basketball, Movie, Driving, Travel
-<br> • Lakers, Pop, LOL
+<br> • Lakers, LOL, Pop
 
 ## Extracurricular Activities
 • NMUN China Volunteer
@@ -32,5 +32,4 @@ title: About me
 <div align = "center">
 <img src = '../IMG_1402.JPG' width = "606" height = "453">
 </div>
-<br>
 <br>Yichang is my hometown, I lived in this lovely city for 18 years before I went to Xi'an for university study. I love the customs, scenerys and food in Yichang. Of course, I also won't forget my friends here. To summary in one word, "beautiful hills, beautiful water, and more beautiful people", Yichang deserves it. 
