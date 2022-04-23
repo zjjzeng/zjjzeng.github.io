@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jia Zeng</title>
-    <link>http://zjjzeng.github.io/categories/</link>
+    <link>https://zjjzeng.github.io/categories/</link>
     <description>Recent content in Categories on Jia Zeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Apr 2022 13:20:48 +0800</lastBuildDate><atom:link href="http://zjjzeng.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 13:20:48 +0800</lastBuildDate><atom:link href="https://zjjzeng.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>life</title>
-      <link>http://zjjzeng.github.io/categories/life/</link>
+      <link>https://zjjzeng.github.io/categories/life/</link>
       <pubDate>Sat, 23 Apr 2022 13:20:48 +0800</pubDate>
       
-      <guid>http://zjjzeng.github.io/categories/life/</guid>
+      <guid>https://zjjzeng.github.io/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>develop</title>
-      <link>http://zjjzeng.github.io/categories/develop/</link>
+      <link>https://zjjzeng.github.io/categories/develop/</link>
       <pubDate>Fri, 22 Apr 2022 22:42:51 +0800</pubDate>
       
-      <guid>http://zjjzeng.github.io/categories/develop/</guid>
+      <guid>https://zjjzeng.github.io/categories/develop/</guid>
       <description></description>
     </item>
     

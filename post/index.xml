@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jia Zeng</title>
-    <link>http://zjjzeng.github.io/post/</link>
+    <link>https://zjjzeng.github.io/post/</link>
     <description>Recent content in Posts on Jia Zeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 22:42:51 +0800</lastBuildDate><atom:link href="http://zjjzeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 22:42:51 +0800</lastBuildDate><atom:link href="https://zjjzeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Image Inserting</title>
-      <link>http://zjjzeng.github.io/post/test-t-image-inserting/</link>
+      <link>https://zjjzeng.github.io/post/test-t-image-inserting/</link>
       <pubDate>Fri, 22 Apr 2022 22:42:51 +0800</pubDate>
       
-      <guid>http://zjjzeng.github.io/post/test-t-image-inserting/</guid>
+      <guid>https://zjjzeng.github.io/post/test-t-image-inserting/</guid>
       <description>I am a graduate student at the Department of Computer Science and Engineering, New York University. I will do a software engineer summer intern in MicroSoft STCA.
 This is a offline test for image layout test.</description>
     </item>
