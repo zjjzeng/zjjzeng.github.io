@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jia Zeng</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://zjjzeng.github.io/tags/</link>
     <description>Recent content in Tags on Jia Zeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Apr 2022 13:20:48 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 13:20:48 +0800</lastBuildDate><atom:link href="http://zjjzeng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shanghai</title>
-      <link>http://localhost:1313/tags/shanghai/</link>
+      <link>http://zjjzeng.github.io/tags/shanghai/</link>
       <pubDate>Sat, 23 Apr 2022 13:20:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/shanghai/</guid>
+      <guid>http://zjjzeng.github.io/tags/shanghai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thoughts</title>
-      <link>http://localhost:1313/tags/thoughts/</link>
+      <link>http://zjjzeng.github.io/tags/thoughts/</link>
       <pubDate>Sat, 23 Apr 2022 13:20:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/thoughts/</guid>
+      <guid>http://zjjzeng.github.io/tags/thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gohugo</title>
-      <link>http://localhost:1313/tags/gohugo/</link>
+      <link>http://zjjzeng.github.io/tags/gohugo/</link>
       <pubDate>Fri, 22 Apr 2022 22:42:51 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/gohugo/</guid>
+      <guid>http://zjjzeng.github.io/tags/gohugo/</guid>
       <description></description>
     </item>
     
