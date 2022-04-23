@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head>
-<title>Tags</title>
+<title>About</title>
 
 
 
@@ -53,7 +53,27 @@
 
 
 
+  <script src="/js/toc.js"></script>
 
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<script src="/vendor/js/md5.min.js"></script>
+<script>
+  var gitalk = new Gitalk({
+  clientID: '8ac464b157e44b516a0f',
+  clientSecret: '80262f2d933f507439694dddf931bfccd7f02382',
+  repo: 'zjjzeng.github.io',
+  owner: 'zjjzeng',
+  admin: ['zjjzeng'],
+  id: md5(location.pathname),
+  distractionFreeMode: 'false'
+  });
+  window.onload = function () {
+        gitalk.render('gitalk-container')
+  }
+</script>
 
 
 
@@ -88,9 +108,11 @@
             
             
             
+                
             
             
-            <a class="a-block nav-link-item false" href="/about">
+            
+            <a class="a-block nav-link-item active" href="/about">
                 About
             </a>
             
@@ -118,11 +140,9 @@
             
             
             
-                
             
             
-            
-            <a class="a-block nav-link-item active" href="/tags">
+            <a class="a-block nav-link-item false" href="/tags">
                 Tags
             </a>
             
@@ -147,6 +167,88 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
     
 </div><div id="extraContainer" class="extra-container">
     
+    
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+							
+								
+									<ul>
+								
+							
+								
+									<ul>
+								
+							
+						
+						
+							<li>
+								<a href="#about-me" onclick="onNavClick(`#about-me-nav`)" id="about-me-nav">
+									About me
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#resume" onclick="onNavClick(`#resume-nav`)" id="resume-nav">
+									Resume
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#contact" onclick="onNavClick(`#contact-nav`)" id="contact-nav">
+									Contact
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+</div>
     
     <div class="pagination">
         <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
@@ -174,9 +276,11 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 
                 
                 
+                    
                 
                 
-                <a class="a-block drawer-menu-item false" href="/about">
+                
+                <a class="a-block drawer-menu-item active" href="/about">
                     About
                 </a>
                 
@@ -204,15 +308,95 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 
                 
                 
-                    
                 
                 
-                
-                <a class="a-block drawer-menu-item active" href="/tags">
+                <a class="a-block drawer-menu-item false" href="/tags">
                     Tags
                 </a>
                 
             
+            
+            <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+							
+								
+									<ul>
+								
+							
+								
+									<ul>
+								
+							
+						
+						
+							<li>
+								<a href="#about-me" onclick="onNavClick(`#about-me-nav`)" id="about-me-nav">
+									About me
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#resume" onclick="onNavClick(`#resume-nav`)" id="resume-nav">
+									Resume
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#contact" onclick="onNavClick(`#contact-nav`)" id="contact-nav">
+									Contact
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+</div>
             
         </div>
     </div>
@@ -254,44 +438,83 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
             <div id="content">
                 <div id="streamContainer" class="stream-container">
 
-<div class="post-list-container post-list-container-shadow">
-  <a class="a-block">
-    <div class="post-item-wrapper post-item-wrapper-no-hover">
-      <div class="post-item post-item-no-gaps">
-        <div class="post-item-info-wrapper">
-          <div class="post-item-title post-item-title-small">
-            Tags
-          </div>
-        </div>
-      </div>
-    </div>
-  </a>
-  <div class="tags">
-    
-    <div class="tag">
-      <a href="http://localhost:1313/tags/gohugo/" class="btn btn-outline-secondary position-relative rounded-pill">
-        gohugo
-        <span class="badge">(1)</span>
-      </a>
-    </div>
-    
-    <div class="tag">
-      <a href="http://localhost:1313/tags/shanghai/" class="btn btn-outline-secondary position-relative rounded-pill">
-        Shanghai
-        <span class="badge">(1)</span>
-      </a>
-    </div>
-    
-    <div class="tag">
-      <a href="http://localhost:1313/tags/thoughts/" class="btn btn-outline-secondary position-relative rounded-pill">
-        thoughts
-        <span class="badge">(1)</span>
-      </a>
-    </div>
-    
-  </div>
-</div>
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
 
+            <div class="post-head-wrapper-text-only"
+                
+            >
+                <div class="post-title">
+                    About
+                    
+                    <div class="post-meta">
+                        
+
+                        
+
+                        
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                
+                <div class="post-body" v-pre>
+                
+                    <p><a href="https://lilianlee.me/"><img src="https://img.shields.io/badge/lilianlee.me-orange" alt="lilianlee.me"></a>
+<a href="https://github.com/lilin90"><img src="https://img.shields.io/badge/GitHub-grey?logo=github" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/lilian-lee-54305777/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"></a>
+<a href="https://twitter.com/lilianlee90/"><img src="https://img.shields.io/badge/Twitter-white?logo=twitter" alt="Twitter"></a>
+<a href="https://www.instagram.com/lilianlee.me/"><img src="https://img.shields.io/badge/Instagram-white?logo=instagram" alt="Instagram"></a>
+<a href="https://pixabay.com/zh/users/lilian90-1322641/"><img src="https://img.shields.io/badge/Facebook-white?logo=facebook" alt="Facebook"></a></p>
+<h3 id="about-me">About me</h3>
+<p>My name is Jia Zeng, 曾佳 in Chinese.</p>
+<h3 id="resume">Resume</h3>
+<h3 id="contact">Contact</h3>
+<p>Email: zengjia24 [at] outlook [dot] com <br>
+      jia.zeng [at] nyu [dot] edu</p>
+<p>Feel free to be in touch with me. I will be happy to meet and talk with frineds all over the world.</p>
+
+                    
+                </div>
+            </div>
+            
+            
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts" href="http://localhost:1313/post/test-t-image-inserting/">
+			Next<br>Test Image Inserting
+                </a>
+                
+                
+                
+                <a class="older-posts">
+			Previous<br>No older posts.
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+<div id="gitalk-container"></div>
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
 
 
                     </div>

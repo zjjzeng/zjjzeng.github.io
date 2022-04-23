@@ -1,13 +1,53 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Jia Zeng</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jia Zeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 23 Apr 2022 13:20:48 +0800</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Lockdown in Shanghai</title>
+        <link>http://localhost:1313/posts/lockdown-in-shanghai/</link>
+        <pubDate>Sat, 23 Apr 2022 13:20:48 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/lockdown-in-shanghai/</guid>
+        <description>Jia Zeng http://localhost:1313/posts/lockdown-in-shanghai/ -
+    &lt;iframe
+        frameborder=&#34;no&#34;
+        border=&#34;0&#34;
+        marginwidth=&#34;0&#34;
+        marginheight=&#34;0&#34;
+        width=60%
+        height=86
+        src=&#34;//music.163.com/outchain/player?type=2&amp;id=1443928242&amp;auto=1&amp;height=66&#34;&gt;
+    &lt;/iframe&gt;
+
+
+- http://localhost:1313/posts/lockdown-in-shanghai/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Test Image Inserting</title>
+        <link>http://localhost:1313/post/test-t-image-inserting/</link>
+        <pubDate>Fri, 22 Apr 2022 22:42:51 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/test-t-image-inserting/</guid>
+        <description>Jia Zeng http://localhost:1313/post/test-t-image-inserting/ -&lt;p&gt;I am a graduate student at the Department of Computer Science and Engineering, New York University. I will do a software engineer summer intern in MicroSoft STCA.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/beach.jpg&#34; alt=&#34;sunshine&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is a offline test for image layout test.&lt;/p&gt;
+- http://localhost:1313/post/test-t-image-inserting/ - </description>
+        </item>
+    
+    
     
     
   </channel>

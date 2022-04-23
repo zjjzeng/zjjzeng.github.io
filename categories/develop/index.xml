@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>develop on Jia Zeng</title>
+    <link>http://localhost:1313/categories/develop/</link>
+    <description>Recent content in develop on Jia Zeng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Apr 2022 22:42:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/develop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Image Inserting</title>
+      <link>http://localhost:1313/post/test-t-image-inserting/</link>
+      <pubDate>Fri, 22 Apr 2022 22:42:51 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/test-t-image-inserting/</guid>
+      <description>I am a graduate student at the Department of Computer Science and Engineering, New York University. I will do a software engineer summer intern in MicroSoft STCA.
+This is a offline test for image layout test.</description>
+    </item>
+    
+  </channel>
+</rss>

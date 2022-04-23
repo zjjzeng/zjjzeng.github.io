@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head>
-<title>Tags</title>
+<title>Test Image Inserting</title>
 
 
 
@@ -53,7 +53,27 @@
 
 
 
+  <script src="/js/toc.js"></script>
 
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<script src="/vendor/js/md5.min.js"></script>
+<script>
+  var gitalk = new Gitalk({
+  clientID: '8ac464b157e44b516a0f',
+  clientSecret: '80262f2d933f507439694dddf931bfccd7f02382',
+  repo: 'zjjzeng.github.io',
+  owner: 'zjjzeng',
+  admin: ['zjjzeng'],
+  id: md5(location.pathname),
+  distractionFreeMode: 'false'
+  });
+  window.onload = function () {
+        gitalk.render('gitalk-container')
+  }
+</script>
 
 
 
@@ -118,11 +138,9 @@
             
             
             
-                
             
             
-            
-            <a class="a-block nav-link-item active" href="/tags">
+            <a class="a-block nav-link-item false" href="/tags">
                 Tags
             </a>
             
@@ -147,6 +165,11 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
     
 </div><div id="extraContainer" class="extra-container">
     
+    
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+</div>
     
     <div class="pagination">
         <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
@@ -204,15 +227,18 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 
                 
                 
-                    
                 
                 
-                
-                <a class="a-block drawer-menu-item active" href="/tags">
+                <a class="a-block drawer-menu-item false" href="/tags">
                     Tags
                 </a>
                 
             
+            
+            <div class="toc">
+
+
+</div>
             
         </div>
     </div>
@@ -254,44 +280,97 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
             <div id="content">
                 <div id="streamContainer" class="stream-container">
 
-<div class="post-list-container post-list-container-shadow">
-  <a class="a-block">
-    <div class="post-item-wrapper post-item-wrapper-no-hover">
-      <div class="post-item post-item-no-gaps">
-        <div class="post-item-info-wrapper">
-          <div class="post-item-title post-item-title-small">
-            Tags
-          </div>
-        </div>
-      </div>
-    </div>
-  </a>
-  <div class="tags">
-    
-    <div class="tag">
-      <a href="http://localhost:1313/tags/gohugo/" class="btn btn-outline-secondary position-relative rounded-pill">
-        gohugo
-        <span class="badge">(1)</span>
-      </a>
-    </div>
-    
-    <div class="tag">
-      <a href="http://localhost:1313/tags/shanghai/" class="btn btn-outline-secondary position-relative rounded-pill">
-        Shanghai
-        <span class="badge">(1)</span>
-      </a>
-    </div>
-    
-    <div class="tag">
-      <a href="http://localhost:1313/tags/thoughts/" class="btn btn-outline-secondary position-relative rounded-pill">
-        thoughts
-        <span class="badge">(1)</span>
-      </a>
-    </div>
-    
-  </div>
-</div>
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+                
+            
 
+            <div class="post-head-wrapper"
+                
+                    
+                    
+                    style="background-image: url('http://localhost:1313/images/header.png')"
+                    
+                
+            >
+                <div class="post-title">
+                    Test Image Inserting
+                    
+                    <div class="post-meta">
+                        
+                        <time itemprop="datePublished">
+                            2022-04-22 22:42
+                        </time>
+                        
+
+                        
+                            <i class="material-icons" style="">folder</i>
+                                <a href="/categories/develop">develop</a>
+                                &nbsp;
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="/tags/gohugo">gohugo</a>
+                                &nbsp;
+                            
+                        
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                
+                <div class="post-body" v-pre>
+                
+                    <p>I am a graduate student at the Department of Computer Science and Engineering, New York University. I will do a software engineer summer intern in MicroSoft STCA.</p>
+<p><img src="/images/beach.jpg" alt="sunshine"></p>
+<p>This is a offline test for image layout test.</p>
+
+                    
+                    <HR width="100%" id="EOF">
+		    <p style="color:#777;">Last modified on 2022-04-22</p>
+                    
+                </div>
+            </div>
+            
+            
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts" href="http://localhost:1313/posts/lockdown-in-shanghai/">
+			Next<br>Lockdown in Shanghai
+                </a>
+                
+                
+                
+                <a class="older-posts" href="http://localhost:1313/about/">
+			Previous<br>About
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+<div id="gitalk-container"></div>
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
 
 
                     </div>
