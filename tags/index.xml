@@ -6,33 +6,28 @@
     <description>Recent content in Tags on Jia&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Apr 2022 13:20:48 +0800</lastBuildDate><atom:link href="https://zjjzeng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 13:20:48 +0800</lastBuildDate>
+    <atom:link href="https://zjjzeng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shanghai</title>
       <link>https://zjjzeng.github.io/tags/shanghai/</link>
       <pubDate>Sat, 23 Apr 2022 13:20:48 +0800</pubDate>
-      
       <guid>https://zjjzeng.github.io/tags/shanghai/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>thoughts</title>
       <link>https://zjjzeng.github.io/tags/thoughts/</link>
       <pubDate>Sat, 23 Apr 2022 13:20:48 +0800</pubDate>
-      
       <guid>https://zjjzeng.github.io/tags/thoughts/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>gohugo</title>
       <link>https://zjjzeng.github.io/tags/gohugo/</link>
       <pubDate>Fri, 22 Apr 2022 22:42:51 +0800</pubDate>
-      
       <guid>https://zjjzeng.github.io/tags/gohugo/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
